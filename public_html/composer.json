@@ -1,0 +1,189 @@
+{
+    "config": {
+      "vendor-dir":"thirdparty"
+    },
+    "repositories": [
+
+        {
+            "type": "package",
+            "package": {
+                "name": "mattbryson/TouchSwipe-Jquery-Plugin",
+                "version": "1.6.18",
+                "source": {
+                    "url": "https://github.com/mattbryson/TouchSwipe-Jquery-Plugin.git",
+                    "type": "git",
+                    "reference": "1.6.18"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "FezVrasta/popper.js",
+                "version": "v1.14.4",
+                "source": {
+                    "url": "https://github.com/FezVrasta/popper.js.git",
+                    "type": "git",
+                    "reference": "v1.14.4"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "dennyferra/TypeWatch",
+                "version": "3.0.0",
+                "source": {
+                    "url": "https://github.com/dennyferra/TypeWatch.git",
+                    "type": "git",
+                    "reference": "3.0.0"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "jquery/jquery",
+                "version": "3.4.1",
+                "source": {
+                    "url": "https://github.com/jquery/jquery.git",
+                    "type": "git",
+                    "reference": "3.4.1"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "danielm/uploader",
+                "version": "v1.0.2",
+                "source": {
+                    "url": "https://github.com/danielm/uploader.git",
+                    "type": "git",
+                    "reference": "v1.0.2"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "swisnl/jquery-contextmenu",
+                "version": "2.5.0",
+                "source": {
+                    "url": "https://github.com/swisnl/jquery-contextmenu.git",
+                    "type": "git",
+                    "reference": "2.5.0"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "lrsjng/kjua",
+                "version": "v0.1.2",
+                "source": {
+                    "url": "https://github.com/lrsjng/kjua.git",
+                    "type": "git",
+                    "reference": "v0.1.2"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "chaijs/chai",
+                "version": "1.9.0",
+                "source": {
+                    "url": "https://github.com/chaijs/chai.git",
+                    "type": "git",
+                    "reference": "1.9.0"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "jquery/jquery-mousewheel",
+                "version": "3.1.9",
+                "source": {
+                    "url": "https://github.com/jquery/jquery-mousewheel.git",
+                    "type": "git",
+                    "reference": "3.1.9"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "mochajs/mocha",
+                "version": "1.17.1",
+                "source": {
+                    "url": "https://github.com/mochajs/mocha.git",
+                    "type": "git",
+                    "reference": "1.17.1"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "fr33z00/panzoom",
+                "version": "v3.2.2.1+1Touch",
+                "source": {
+                    "url": "https://github.com/fr33z00/jquery.panzoom.git",
+                    "type": "git",
+                    "reference": "v3.2.2.1+1Touch"
+                }
+            }
+        },
+        {
+          "type": "package",
+          "package": {
+              "name": "farbelous/bootstrap-colorpicker",
+              "version": "2.5.0",
+              "source": {
+                  "url": "https://github.com/farbelous/bootstrap-colorpicker.git",
+                  "type": "git",
+                  "reference": "2.5.0"
+              }
+}
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "joequery/stupid-table-plugin",
+                "version": "1.1.3",
+                "source": {
+                    "url": "https://github.com/joequery/stupid-table-plugin.git",
+                    "type": "git",
+                    "reference": "1.1.3"
+                }
+            }
+        }
+    ],
+
+    "require": {
+        "mattbryson/touchswipe-jquery-plugin": "1.6.18",
+        "fezvrasta/popper.js": "v1.14.4",
+        "twbs/bootstrap": "4.4.1",
+        "eonasdan/bootstrap-datetimepicker": "4.17.47",
+        "moment/moment": "2.24.0",
+        "dimsemenov/magnific-popup": "1.1.0",
+        "dennyferra/typewatch": "3.0.0",
+        "tinymce/tinymce": "4.9.5",
+        "jquery/jquery": "3.4.1",
+        "danielm/uploader": "v1.0.2",
+        "brinley/jsignature": "2.1.3",
+        "fullcalendar/fullcalendar": "3.10.1",
+        "swisnl/jquery-contextmenu": "2.5.0",
+        "lrsjng/kjua": "v0.1.2",
+        "chaijs/chai": "1.9.0",
+        "jquery/jquery-mousewheel": "3.1.9",
+        "mochajs/mocha": "1.17.1",
+        "farbelous/bootstrap-colorpicker": "2.5.0",
+        "joequery/stupid-table-plugin": "1.1.3",
+        "thebingservices/codemirror": "v5.10.0",
+        "fortawesome/font-awesome": "^5.13",
+        "fr33z00/panzoom": "v3.2.2.1+1Touch"
+    }
+}
